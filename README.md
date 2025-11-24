@@ -1,4 +1,4 @@
-# 1)  AI-Powered Job Recommendation System
+# 1)  JobSkill-Q : AI-Powered Job Recommendation System
 
   This is an AI-driven job recommendation system that analyzes resumes and suggests the most relevant job positions based on skills and experience. The system utilizes **Natural Language Processing (NLP)** and **Semantic Search** to find the best job matches.
 

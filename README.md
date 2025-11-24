@@ -19,9 +19,9 @@
 
   ## 📌 How to Run
   1. Clone this repository:
-    ```sh
+"
     git clone https://github.com/muditkapil/JobSkill-Q.git
-    cd job-recommendation-system-ai
+    cd job-recommendation-system-ai"
 
 # 2) Install the dependencies:
   pip install -r requirements.txt
